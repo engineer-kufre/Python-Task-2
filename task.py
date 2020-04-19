@@ -3,7 +3,7 @@ import random
 newUser = 'y'
 users = []
 
-
+    
 while newUser == 'y': 
     user = {}
 
